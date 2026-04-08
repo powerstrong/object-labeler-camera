@@ -1,0 +1,6 @@
+// Apply this from android/app/build.gradle in a real RN Android project:
+// apply from: "$rootDir/app/mlkit-dependencies.gradle"
+
+dependencies {
+  implementation "com.google.mlkit:object-detection:17.0.2"
+}
