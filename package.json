@@ -1,0 +1,18 @@
+{
+  "name": "object-labeler-camera",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-native": "^0.74.0",
+    "react-native-vision-camera": "^4.6.4"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5",
+    "@types/react": "^18.2.79",
+    "@types/react-native": "^0.73.0"
+  }
+}
